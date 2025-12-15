@@ -8,9 +8,9 @@ With over 20 years in Health & Education, I now build high-performance tools to 
 ---
 
 #### 🚀 Featured Portfolio
-* **[Veritas AI](LINK_DO_REPO)**: Agentic RAG System for Fact-Checking & Anti-Hallucination (Llama 3.3).
-* **[Data Insight Pro](LINK_DO_REPO)**: Automated BI & ETL Pipeline for Medical/Corporate Data.
-* **[Nexus CRM](LINK_DO_REPO)**: SQL-based Deal Management System for specialized consultancies.
+* **[Veritas AI][(https://ia-veritas.streamlit.app/)]**: Agentic RAG System for Fact-Checking & Anti-Hallucination (Llama 3.3).
+* **[Data Insight Pro][(https://data-insight-pro.streamlit.app/)]**: Automated BI & ETL Pipeline for Medical/Corporate Data.
+* **[Nexus CRM][(https://nexus-crm.streamlit.app/)]**: SQL-based Deal Management System for specialized consultancies.
 
 ---
 
@@ -23,5 +23,5 @@ With over 20 years in Health & Education, I now build high-performance tools to 
 ---
 
 #### 📫 Let's Connect
-* [LinkedIn](SEU_LINK_DO_LINKEDIN)
+* [LinkedIn][(https://www.linkedin.com/in/rodrigo-niskier-200549156/)]
 * **Focus:** HealthTech, EdTech, Automation, and Data Analysis.
