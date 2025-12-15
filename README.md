@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Rodrigo Niskier 👋
 
-<!--
-**rodrigoniskier/rodrigoniskier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biomedical Scientist | Professor | Full-Stack Python Developer**
 
-Here are some ideas to get you started:
+Bridging the gap between **Life Sciences** and **Software Engineering**.
+With over 20 years in Health & Education, I now build high-performance tools to solve complex data and management problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚀 Featured Portfolio
+* **[Veritas AI](LINK_DO_REPO)**: Agentic RAG System for Fact-Checking & Anti-Hallucination (Llama 3.3).
+* **[Data Insight Pro](LINK_DO_REPO)**: Automated BI & ETL Pipeline for Medical/Corporate Data.
+* **[Nexus CRM](LINK_DO_REPO)**: SQL-based Deal Management System for specialized consultancies.
+
+---
+
+#### 🛠 Tech Stack
+* **Languages:** Python (Advanced), SQL.
+* **Data & AI:** Pandas, Plotly, Groq API (LLM), Tavily (Search), OpenAI.
+* **Web Frameworks:** Streamlit, Flask/Django (Learning).
+* **Tools:** Git, VS Code, Linux/Bash.
+
+---
+
+#### 📫 Let's Connect
+* [LinkedIn](SEU_LINK_DO_LINKEDIN)
+* **Focus:** HealthTech, EdTech, Automation, and Data Analysis.
