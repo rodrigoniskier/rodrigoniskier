@@ -1,27 +1,52 @@
-### Hi there, I'm Rodrigo Niskier 👋
+# Rodrigo Niskier
 
-**Biomedical Scientist | Professor | Full-Stack Python Developer**
+### Developer de produtos digitais com IA · EdTech · HealthTech · Automação
 
-Bridging the gap between **Life Sciences** and **Software Engineering**.
-With over 20 years in Health & Education, I now build high-performance tools to solve complex data and management problems.
+Construo aplicações web e ferramentas de automação para transformar problemas reais de trabalho em software simples, funcional e útil.
+
+Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a traduzir regras de negócio e fluxos complexos em produtos digitais. No desenvolvimento, uso IA como ferramenta de engenharia para acelerar prototipação, implementação, revisão, debugging e testes — mantendo o foco no problema que o software precisa resolver.
+
+> **Building practical AI-powered web products for education, health workflows and automation.**
+
+## Projetos selecionados
+
+| Projeto | O que resolve | Stack principal |
+| --- | --- | --- |
+| [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | SaaS para geração estruturada de documentos acadêmicos com IA, cobrança e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · Asaas |
+| [ExposiBot](https://github.com/rodrigoniskier/appsermao) | Workspace de pesquisa, organização e preparação de conteúdo com múltiplos provedores de IA | Flask · SQLAlchemy · Gemini · Groq · Tavily |
+| [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Apresentação de PDFs controlada por voz e gestos | React · TypeScript · PDF.js · MediaPipe |
+| [OMR Core](https://github.com/rodrigoniskier/omrcore) | Fluxo digital para leitura e correção em lote de gabaritos a partir de imagens/PDFs | React · TypeScript · Express · Gemini |
+| [Data Insight Pro](https://github.com/rodrigoniskier/data-insight-pro) | Converte arquivos CSV/XLSX em análise exploratória e dashboards interativos | Python · Streamlit · Pandas · Plotly |
+| [FocusBoard](https://github.com/rodrigoniskier/FocusBoard) | Kanban client-side com persistência local, busca, Markdown e drag & drop | React · TypeScript · Zustand · Tailwind |
+
+## O que posso construir
+
+- **MVPs e aplicações web** para validar ideias e digitalizar fluxos de trabalho.
+- **Ferramentas com IA/LLMs**, geração estruturada, pesquisa assistida e automação.
+- **Dashboards e análise de dados** a partir de CSV, Excel e bases relacionais.
+- **Sistemas para educação e saúde**, incluindo gestão, avaliação e produtividade.
+- **Integrações e automações** com APIs, bancos de dados, armazenamento e serviços externos.
+- **Protótipos funcionais** que podem evoluir para produtos de produção.
+
+## Tecnologias que aparecem nos meus projetos
+
+**Python:** Django, Flask, Streamlit, Pandas, SQLAlchemy  
+**Web:** React, TypeScript, JavaScript, HTML/CSS, Tailwind, Vite  
+**Dados:** PostgreSQL, SQLite, Supabase, Pandas, Plotly  
+**IA & automação:** OpenAI, Gemini, Groq, Tavily, n8n  
+**Infra & serviços:** Vercel, Render, Cloudflare R2, GitHub Actions  
+**Outros:** REST APIs, DOCX/PDF, MediaPipe, browser APIs, Git
+
+## Como trabalho
+
+Gosto de começar pelo problema e chegar rapidamente a uma versão funcional. Uso ciclos curtos de especificação, implementação, teste e correção. Quando uma solução falha, procuro identificar o comportamento exato, isolar a causa e transformar o diagnóstico em uma mudança objetiva no código.
+
+Este GitHub reúne uma seleção de projetos próprios, protótipos e aplicações construídas para necessidades reais.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-niskier-200549156/) · [GitHub](https://github.com/rodrigoniskier)
 
 ---
 
-#### 🚀 Featured Portfolio
-* **[Veritas AI][(https://ia-veritas.streamlit.app/)]**: Agentic RAG System for Fact-Checking & Anti-Hallucination (Llama 3.3).
-* **[Data Insight Pro][(https://data-insight-pro.streamlit.app/)]**: Automated BI & ETL Pipeline for Medical/Corporate Data.
-* **[Nexus CRM][(https://nexus-crm.streamlit.app/)]**: SQL-based Deal Management System for specialized consultancies.
-
----
-
-#### 🛠 Tech Stack
-* **Languages:** Python (Advanced), SQL.
-* **Data & AI:** Pandas, Plotly, Groq API (LLM), Tavily (Search), OpenAI.
-* **Web Frameworks:** Streamlit, Flask/Django (Learning).
-* **Tools:** Git, VS Code, Linux/Bash.
-
----
-
-#### 📫 Let's Connect
-* [LinkedIn][(https://www.linkedin.com/in/rodrigo-niskier-200549156/)]
-* **Focus:** HealthTech, EdTech, Automation, and Data Analysis.
+**Disponível para projetos freelance, MVPs, automações e desenvolvimento de ferramentas com IA.**
