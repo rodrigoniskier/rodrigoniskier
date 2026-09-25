@@ -10,7 +10,9 @@ Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a tradu
 
 ## Projetos selecionados
 
-Os projetos abaixo priorizam **uso real, manutenção recente e profundidade técnica**.
+A vitrine está organizada por tipo de entrega, priorizando **uso real, manutenção recente e profundidade técnica**.
+
+### Produtos e sistemas
 
 | Projeto | O que resolve | Stack principal |
 | --- | --- | --- |
@@ -20,7 +22,22 @@ Os projetos abaixo priorizam **uso real, manutenção recente e profundidade té
 | [AI_RN_LAB Video Studio](https://github.com/rodrigoniskier/ai-rn-lab-video-studio) | Pipeline automatizado para roteiro, mídia, narração, legendas, renderização e publicação de vídeos | Python · FastAPI · Gemini · FFmpeg · Vercel · GitHub Actions |
 | [ExposiBot](https://github.com/rodrigoniskier/appsermao) | Workspace de pesquisa, organização e preparação de conteúdo com múltiplos provedores de IA | Flask · SQLAlchemy · Gemini · Groq · Tavily |
 | [ConsultaMed](https://github.com/rodrigoniskier/consultamed) | Gestão ambulatorial com autenticação, papéis de usuário, agenda e dados em tempo real | React · TypeScript · Supabase · PostgreSQL |
-| [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Apresentação de PDFs controlada por voz e gestos | React · TypeScript · PDF.js · MediaPipe |
+
+### Web design, UX e arquitetura de conteúdo
+
+| Projeto | O que demonstra | Stack principal |
+| --- | --- | --- |
+| [Sola Scriptura](https://github.com/rodrigoniskier/curso-teologia) | Portal educacional de grande escala com navegação curricular, avaliações, design responsivo e validações automatizadas de conteúdo | React · TypeScript · Vite · Tailwind · GitHub Actions |
+| [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Interface multimodal para apresentação de PDFs por voz, gestos e teclado | React · TypeScript · PDF.js · MediaPipe |
+| [Cosmos Academy](https://github.com/rodrigoniskier/cosmosacademy) | Experiência educacional navegável para conteúdo científico complexo, com matemática renderizada e auditoria de integridade | React · TypeScript · KaTeX · CI |
+
+### Ferramentas e protótipos
+
+| Projeto | O que demonstra |
+| --- | --- |
+| [Teleprompter](https://github.com/rodrigoniskier/teleprompter) | PWA mobile-first com câmera, gravação e operação offline |
+| [OrganizAI](https://github.com/rodrigoniskier/organizai) | Organização local-first de arquivos com browser APIs, simulação e undo |
+| [Data Insight Pro](https://github.com/rodrigoniskier/data-insight-pro) | Análise exploratória e dashboards a partir de CSV/XLSX |
 
 ## O que posso construir
 
