@@ -10,15 +10,17 @@ Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a tradu
 
 ## Projetos selecionados
 
+Os projetos abaixo priorizam **uso real, manutenção recente e profundidade técnica**.
+
 | Projeto | O que resolve | Stack principal |
 | --- | --- | --- |
 | [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | SaaS para geração estruturada de documentos acadêmicos com IA, cobrança e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · Asaas |
+| [PA Manager](https://github.com/rodrigoniskier/pa-manager) | Automação segura para monitorar, renovar e manter múltiplas aplicações PythonAnywhere | Python · FastAPI · Playwright · Docker · Railway · GitHub Actions |
+| [MAPD Casos](https://github.com/rodrigoniskier/mapdcasos) | Plataforma multiusuário de simulação clínica com IA, árvore decisória, analytics e controles de resiliência | Django · Gemini · Pydantic · PostgreSQL/SQLite · CI |
+| [AI_RN_LAB Video Studio](https://github.com/rodrigoniskier/ai-rn-lab-video-studio) | Pipeline automatizado para roteiro, mídia, narração, legendas, renderização e publicação de vídeos | Python · FastAPI · Gemini · FFmpeg · Vercel · GitHub Actions |
 | [ExposiBot](https://github.com/rodrigoniskier/appsermao) | Workspace de pesquisa, organização e preparação de conteúdo com múltiplos provedores de IA | Flask · SQLAlchemy · Gemini · Groq · Tavily |
 | [ConsultaMed](https://github.com/rodrigoniskier/consultamed) | Gestão ambulatorial com autenticação, papéis de usuário, agenda e dados em tempo real | React · TypeScript · Supabase · PostgreSQL |
 | [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Apresentação de PDFs controlada por voz e gestos | React · TypeScript · PDF.js · MediaPipe |
-| [OMR Core](https://github.com/rodrigoniskier/omrcore) | Fluxo digital para leitura e correção em lote de gabaritos a partir de imagens/PDFs | React · TypeScript · Express · Gemini |
-| [Data Insight Pro](https://github.com/rodrigoniskier/data-insight-pro) | Converte arquivos CSV/XLSX em análise exploratória e dashboards interativos | Python · Streamlit · Pandas · Plotly |
-| [OrganizAI](https://github.com/rodrigoniskier/organizai) | Organizador local-first de arquivos com regras, simulação, undo e File System Access API | PWA · JavaScript · File System Access API · IndexedDB |
 
 ## O que posso construir
 
