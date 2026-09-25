@@ -17,7 +17,9 @@ A vitrine está organizada por tipo de entrega, priorizando **uso real, manuten�
 | Projeto | O que resolve | Stack principal |
 | --- | --- | --- |
 | [ClinicalTrack](https://github.com/rodrigoniskier/ClinicalTrack) | Gestão de estágios, placements e formação prática com supervisores, avaliações e autorização por vínculo | Django · PostgreSQL/SQLite · RBAC · Tests |
+| [ServiceFlow](https://github.com/rodrigoniskier/ServiceFlow) | Gestão de atendimentos e solicitações com categorização, filtros, indicadores, importação histórica e exportações | Django · PostgreSQL/SQLite · OpenPyXL · CI |
 | [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | SaaS para geração estruturada de documentos acadêmicos com IA, cobrança e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · Asaas |
+| [ExamForge AI](https://github.com/rodrigoniskier/ExamForgeAI) | Banco de questões e geração de avaliações com fluxo de aprovação, IA assistida e exportação para LMS | Django · Gemini · Structured JSON · CI |
 | [PA Manager](https://github.com/rodrigoniskier/pa-manager) | Automação segura para monitorar, renovar e manter múltiplas aplicações PythonAnywhere | Python · FastAPI · Playwright · Docker · Railway · GitHub Actions |
 | [MAPD Casos](https://github.com/rodrigoniskier/mapdcasos) | Plataforma multiusuário de simulação clínica com IA, árvore decisória, analytics e controles de resiliência | Django · Gemini · Pydantic · PostgreSQL/SQLite · CI |
 | [AI_RN_LAB Video Studio](https://github.com/rodrigoniskier/ai-rn-lab-video-studio) | Pipeline automatizado para roteiro, mídia, narração, legendas, renderização e publicação de vídeos | Python · FastAPI · Gemini · FFmpeg · Vercel · GitHub Actions |
@@ -46,7 +48,7 @@ A vitrine está organizada por tipo de entrega, priorizando **uso real, manuten�
 - **MVPs e aplicações web** para validar ideias e digitalizar fluxos de trabalho.
 - **Ferramentas com IA/LLMs**, geração estruturada, pesquisa assistida e automação.
 - **Dashboards e análise de dados** a partir de CSV, Excel e bases relacionais.
-- **Sistemas para educação e saúde**, incluindo gestão, avaliação e produtividade.
+- **Sistemas para educação e saúde**, incluindo gestão, avaliação, atendimento e produtividade.
 - **Integrações e automações** com APIs, bancos de dados, armazenamento e serviços externos.
 - **Protótipos funcionais** que podem evoluir para produtos de produção.
 
