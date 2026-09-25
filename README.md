@@ -16,12 +16,14 @@ A vitrine está organizada por tipo de entrega, priorizando **uso real, manuten�
 
 | Projeto | O que resolve | Stack principal |
 | --- | --- | --- |
+| [ClinicalTrack](https://github.com/rodrigoniskier/ClinicalTrack) | Gestão de estágios, placements e formação prática com supervisores, avaliações e autorização por vínculo | Django · PostgreSQL/SQLite · RBAC · Tests |
 | [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | SaaS para geração estruturada de documentos acadêmicos com IA, cobrança e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · Asaas |
 | [PA Manager](https://github.com/rodrigoniskier/pa-manager) | Automação segura para monitorar, renovar e manter múltiplas aplicações PythonAnywhere | Python · FastAPI · Playwright · Docker · Railway · GitHub Actions |
 | [MAPD Casos](https://github.com/rodrigoniskier/mapdcasos) | Plataforma multiusuário de simulação clínica com IA, árvore decisória, analytics e controles de resiliência | Django · Gemini · Pydantic · PostgreSQL/SQLite · CI |
 | [AI_RN_LAB Video Studio](https://github.com/rodrigoniskier/ai-rn-lab-video-studio) | Pipeline automatizado para roteiro, mídia, narração, legendas, renderização e publicação de vídeos | Python · FastAPI · Gemini · FFmpeg · Vercel · GitHub Actions |
 | [ExposiBot](https://github.com/rodrigoniskier/appsermao) | Workspace de pesquisa, organização e preparação de conteúdo com múltiplos provedores de IA | Flask · SQLAlchemy · Gemini · Groq · Tavily |
 | [ConsultaMed](https://github.com/rodrigoniskier/consultamed) | Gestão ambulatorial com autenticação, papéis de usuário, agenda e dados em tempo real | React · TypeScript · Supabase · PostgreSQL |
+| [TeamMural](https://github.com/rodrigoniskier/TeamMural) | Comunicação interna para pequenas equipes com canais, mensagens privadas e compartilhamento seguro de arquivos | Flask · SQLite · Auth · File Uploads |
 
 ### Web design, UX e arquitetura de conteúdo
 
