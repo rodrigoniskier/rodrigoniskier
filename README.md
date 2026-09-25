@@ -14,6 +14,7 @@ Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a tradu
 | --- | --- | --- |
 | [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | SaaS para geração estruturada de documentos acadêmicos com IA, cobrança e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · Asaas |
 | [ExposiBot](https://github.com/rodrigoniskier/appsermao) | Workspace de pesquisa, organização e preparação de conteúdo com múltiplos provedores de IA | Flask · SQLAlchemy · Gemini · Groq · Tavily |
+| [ConsultaMed](https://github.com/rodrigoniskier/consultamed) | Gestão ambulatorial com autenticação, papéis de usuário, agenda e dados em tempo real | React · TypeScript · Supabase · PostgreSQL |
 | [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Apresentação de PDFs controlada por voz e gestos | React · TypeScript · PDF.js · MediaPipe |
 | [OMR Core](https://github.com/rodrigoniskier/omrcore) | Fluxo digital para leitura e correção em lote de gabaritos a partir de imagens/PDFs | React · TypeScript · Express · Gemini |
 | [Data Insight Pro](https://github.com/rodrigoniskier/data-insight-pro) | Converte arquivos CSV/XLSX em análise exploratória e dashboards interativos | Python · Streamlit · Pandas · Plotly |
