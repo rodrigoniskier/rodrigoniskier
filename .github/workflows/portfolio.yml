@@ -1,0 +1,16 @@
+name: Portfolio
+on:
+  push:
+    paths: ['dev-portfolio/**', '.github/workflows/portfolio.yml']
+  pull_request:
+    paths: ['dev-portfolio/**', '.github/workflows/portfolio.yml']
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --check dev-portfolio/script.js
+      - run: python dev-portfolio/verify.py

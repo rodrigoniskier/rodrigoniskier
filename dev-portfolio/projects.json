@@ -1,0 +1,103 @@
+[
+  {
+    "id": "examforge",
+    "name": "ExamForge AI",
+    "repo": "ExamForgeAI",
+    "tag": "Banco de questões e avaliações com apoio de IA",
+    "desc": "Da criação de itens à montagem da prova, com revisão humana, organização por competência e exportação para LMS.",
+    "problem": "Reduzir a fragmentação entre elaboração, revisão, aprovação e distribuição de avaliações.",
+    "skills": [
+      "Saída estruturada",
+      "Human-in-the-loop",
+      "Exportação LMS"
+    ],
+    "stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "IA simulada na demo"
+    ],
+    "screen": "examforgeai-bank.html",
+    "screens": [
+      "examforgeai-bank.html",
+      "examforgeai-authoring.html",
+      "examforgeai-assessment.html"
+    ],
+    "label": "Banco de questões"
+  },
+  {
+    "id": "clinicaltrack",
+    "name": "ClinicalTrack",
+    "repo": "ClinicalTrack",
+    "tag": "Gestão de estágios, práticas e formação supervisionada",
+    "desc": "Trainees, supervisores, locais, períodos e avaliações em um fluxo único, com acesso definido pelo vínculo de supervisão.",
+    "problem": "Dar visibilidade ao percurso de formação e aproximar avaliação, acompanhamento e próximos passos.",
+    "skills": [
+      "Controle de acesso",
+      "Autorização por vínculo",
+      "Avaliação formativa"
+    ],
+    "stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "RBAC"
+    ],
+    "screen": "clinicaltrack-dashboard.html",
+    "screens": [
+      "clinicaltrack-dashboard.html",
+      "clinicaltrack-placements.html"
+    ],
+    "label": "Acompanhamento da formação"
+  },
+  {
+    "id": "serviceflow",
+    "name": "ServiceFlow",
+    "repo": "ServiceFlow",
+    "tag": "Do atendimento operacional ao indicador gerencial",
+    "desc": "Registros dispersos se tornam solicitações organizadas, com categorias, responsáveis, filtros e indicadores para apoiar a gestão.",
+    "problem": "Transformar o histórico de atendimento em informação acessível para a operação e para a tomada de decisão.",
+    "skills": [
+      "Modelagem de processos",
+      "Indicadores e filtros",
+      "CSV e Excel"
+    ],
+    "stack": [
+      "Django",
+      "Python",
+      "OpenPyXL",
+      "PostgreSQL"
+    ],
+    "screen": "serviceflow-dashboard.html",
+    "screens": [
+      "serviceflow-dashboard.html",
+      "serviceflow-form.html"
+    ],
+    "label": "Painel de atendimento"
+  },
+  {
+    "id": "teammural",
+    "name": "TeamMural",
+    "repo": "TeamMural",
+    "tag": "Comunicação interna para pequenas equipes",
+    "desc": "Um espaço próprio para os alinhamentos da equipe, com canal geral, conversas individuais e histórico organizado.",
+    "problem": "Concentrar a comunicação de trabalho em um ambiente simples, com acesso por participação na conversa.",
+    "skills": [
+      "Autenticação",
+      "Mensagens privadas",
+      "Interface responsiva"
+    ],
+    "stack": [
+      "Flask",
+      "Python",
+      "PostgreSQL / SQLite",
+      "JavaScript"
+    ],
+    "screen": "teammural-general.html",
+    "screens": [
+      "teammural-general.html",
+      "teammural-direct.html"
+    ],
+    "label": "Canal geral da equipe"
+  }
+]
