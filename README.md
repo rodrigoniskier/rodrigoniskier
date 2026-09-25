@@ -17,7 +17,7 @@ Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a tradu
 | [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Apresentação de PDFs controlada por voz e gestos | React · TypeScript · PDF.js · MediaPipe |
 | [OMR Core](https://github.com/rodrigoniskier/omrcore) | Fluxo digital para leitura e correção em lote de gabaritos a partir de imagens/PDFs | React · TypeScript · Express · Gemini |
 | [Data Insight Pro](https://github.com/rodrigoniskier/data-insight-pro) | Converte arquivos CSV/XLSX em análise exploratória e dashboards interativos | Python · Streamlit · Pandas · Plotly |
-| [FocusBoard](https://github.com/rodrigoniskier/FocusBoard) | Kanban client-side com persistência local, busca, Markdown e drag & drop | React · TypeScript · Zustand · Tailwind |
+| [OrganizAI](https://github.com/rodrigoniskier/organizai) | Organizador local-first de arquivos com regras, simulação, undo e File System Access API | PWA · JavaScript · File System Access API · IndexedDB |
 
 ## O que posso construir
 
