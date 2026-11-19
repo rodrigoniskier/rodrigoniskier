@@ -44,8 +44,6 @@ Organizados por tipo de entrega, priorizando **uso real, manutenção recente e 
 | Projeto | O que demonstra | Stack principal |
 | --- | --- | --- |
 | [Sola Scriptura](https://github.com/rodrigoniskier/curso-teologia) | Portal educacional de grande escala com navegação curricular, avaliações, design responsivo e validações automatizadas de conteúdo | React · TypeScript · Vite · Tailwind · GitHub Actions |
-| [Voice PPT](https://github.com/rodrigoniskier/voice_ppt) | Interface multimodal para apresentação de PDFs por voz, gestos e teclado | React · TypeScript · PDF.js · MediaPipe |
-| [Cosmos Academy](https://github.com/rodrigoniskier/cosmosacademy) | Experiência educacional navegável para conteúdo científico complexo, com matemática renderizada e auditoria de integridade | React · TypeScript · KaTeX · CI |
 
 ### Ferramentas e protótipos
 
