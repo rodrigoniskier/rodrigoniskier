@@ -10,9 +10,19 @@ Minha experiência em **saúde, educação e pesquisa acadêmica** ajuda a tradu
 
 > **Building practical AI-powered web products for education, health workflows and automation.**
 
-## Projetos selecionados
+**Em busca de estágio em tecnologia** — desenvolvimento de software, dados e IA aplicada. Trabalho com Python, SQL/PostgreSQL, Git, APIs REST e CI, e uso ferramentas de IA como parte do fluxo de engenharia.
 
-A vitrine está organizada por tipo de entrega, priorizando **uso real, manutenção recente e profundidade técnica**.
+## Em destaque
+
+| Projeto | O que demonstra | Stack principal |
+| --- | --- | --- |
+| [GoRelay](https://github.com/rodrigoniskier/gorelay) | Entrega de eventos com persistência transacional, idempotência, retries com backoff e jitter, leases com fencing e testes de integração e de concorrência. Inclui [decisões de arquitetura](https://github.com/rodrigoniskier/gorelay/tree/main/docs/adr) e [benchmarks](https://github.com/rodrigoniskier/gorelay/blob/main/docs/benchmarks/RESULTS.md) | Go · PostgreSQL · Docker · CI |
+| [RepoLens AI](https://github.com/rodrigoniskier/repolens-ai) | Busca semântica em repositórios (RAG) com respostas que citam arquivo, linhas e commit, embeddings locais e avaliação determinística (hit@3, latência, validade das citações) | Python · FastAPI · ChromaDB · sentence-transformers · CI |
+| [RN DocumentAI](https://github.com/rodrigoniskier/ai-documentos) | Produto com IA em produção: geração estruturada de documentos, assinatura recorrente, webhooks idempotentes e armazenamento privado | Django · PostgreSQL · OpenAI · Cloudflare R2 · CI |
+
+## Mais projetos
+
+Organizados por tipo de entrega, priorizando **uso real, manutenção recente e profundidade técnica**.
 
 ### Produtos e sistemas
 
@@ -56,10 +66,11 @@ A vitrine está organizada por tipo de entrega, priorizando **uso real, manuten�
 
 ## Tecnologias que aparecem nos meus projetos
 
-**Python:** Django, Flask, Streamlit, Pandas, SQLAlchemy  
+**Python:** Django, Flask, FastAPI, Streamlit, Pandas, SQLAlchemy  
+**Go:** HTTP, concorrência, testes de integração  
 **Web:** React, TypeScript, JavaScript, HTML/CSS, Tailwind, Vite  
 **Dados:** PostgreSQL, SQLite, Supabase, Pandas, Plotly  
-**IA & automação:** OpenAI, Gemini, Groq, Tavily, n8n  
+**IA & automação:** OpenAI, Gemini, Groq, Tavily, RAG (ChromaDB, sentence-transformers), n8n  
 **Infra & serviços:** Vercel, Render, Cloudflare R2, GitHub Actions  
 **Outros:** REST APIs, DOCX/PDF, MediaPipe, browser APIs, Git
 
@@ -75,4 +86,4 @@ Este GitHub reúne uma seleção de projetos próprios, protótipos e aplicaçõ
 
 ---
 
-**Disponível para projetos freelance, MVPs, automações e desenvolvimento de ferramentas com IA.**
+**Disponível para estágio em tecnologia (desenvolvimento, dados e IA) e para projetos freelance, MVPs e automações.**
